@@ -1,1 +1,3 @@
 Name : Wongworrawan Lomwong
+Weight (kg.): 47.5
+Height (cm.): 164
